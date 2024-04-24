@@ -10,6 +10,9 @@ const NavigationBar = () => {
           </li>
           <li>
             <Link to={"/courses"}>Courses</Link>
+          </li>{" "}
+          <li>
+            <Link to={"/tutorials"}>Tutorials</Link>
           </li>
           <li>
             <Link to={"/about"}>About</Link>
